@@ -1,6 +1,6 @@
 ##########################################
 # Replication of factors                 #
-# Wu Jiaying                             #
+# Jiaying Wu                             #
 # Date: April 2025                       #
 # Updated: April 8th 2025                #
 ##########################################
