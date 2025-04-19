@@ -33,7 +33,7 @@ It includes:
   `/Factors_monthly.csv` contains **replicated Fama-French 6 factors and q-factors**.
   `Factor_sharpe_ratios.csv` contains the factors' **annualised return, annualised volatility and Sharpe Ratio**.
 
-<!-- - The file **[`Report - Replication of Fama-French, Hou-Xue-Zhang Factors and Spanning Regression Table.pdf`]** contains the **final written report** for this assignment. It summarizes the methodology of factor construction and insights into the spanning regression results. -->
+- The file **[`Report - Replication of Fama-French, Hou-Xue-Zhang Factors and Spanning Regression Table.pdf`]** contains the **final written report** for this assignment. It summarizes the methodology of factor construction and insights into the spanning regression results.
 
 ---
 
