@@ -106,3 +106,7 @@ Comparison figure from [global-q.org](https://global-q.org):
 
 
 ---
+
+## 📄 License
+
+MIT License. See `LICENSE` file for details.
